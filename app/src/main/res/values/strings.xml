@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">North Market</string>
+    <string name="string_header_1">North Market (Shuk Tzafon) </string>
+    <string name="string_description_title_2">Fresh &amp; local </string>
+    <string name="string_description_info_3">All the best raw materials under one roof, a huge variety of bars and stalls to eat instead </string>
+    <string name="string_header_4">Fresh &amp; local </string>
+    <string name="string_address_5">24 Raoul Wallenberg St., Tel Aviv</string>
+    <string name="string_website_6">http://www.shuktzafon.co.il/t</string>
+    <string name="string_phone_7">03&#8211;643&#8211;2000</string>
+    <string name="string_opening_8">Opening hours</string>
+    <string name="string_opening_9">Sunday &#8211; Thursday : 10 am &#8211; 10 pm  </string>
+    <string name="string_opening_10">Friday &#8211; : 08 am &#8211; 17 pm  </string>
+    <string name="string_opening_11">Saturday &#8211; : 11 am &#8211; 21 pm  </string>
+
+</resources>
